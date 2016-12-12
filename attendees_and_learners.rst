@@ -105,7 +105,7 @@ PyCon Ireland in Dublin, 13th October 2014
 
 PyCon UK in Coventry, 20th September 2014
 -----------------------------------------
-
+* aga faWF https://github.com/FAFEA
 * Matthew Power https://github.com/mthpower
 * Brendan Oates <brenoates@gmail.com>
 * Waldek Herka (https://github.com/wherka)
